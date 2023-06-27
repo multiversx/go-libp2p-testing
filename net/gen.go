@@ -7,16 +7,17 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/libp2p/go-libp2p-testing/etc"
-	ci "github.com/libp2p/go-libp2p/core/crypto"
-	"github.com/libp2p/go-libp2p/core/peer"
-	"github.com/libp2p/go-libp2p/core/test"
+	"github.com/multiversx/go-libp2p-testing/etc"
+	ci "github.com/multiversx/go-libp2p/core/crypto"
+	"github.com/multiversx/go-libp2p/core/peer"
+	"github.com/multiversx/go-libp2p/core/test"
 
 	ma "github.com/multiformats/go-multiaddr"
 )
 
 // ZeroLocalTCPAddress is the "zero" tcp local multiaddr. This means:
-//   /ip4/127.0.0.1/tcp/0
+//
+//	/ip4/127.0.0.1/tcp/0
 var ZeroLocalTCPAddress, _ = ma.NewMultiaddr("/ip4/127.0.0.1/tcp/0")
 
 // RandLocalTCPAddress returns a random multiaddr. it suppresses errors

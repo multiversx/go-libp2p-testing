@@ -6,13 +6,13 @@ import (
 	"io"
 	"testing"
 
-	ic "github.com/libp2p/go-libp2p/core/crypto"
-	pb "github.com/libp2p/go-libp2p/core/crypto/pb"
-	"github.com/libp2p/go-libp2p/core/peer"
+	ic "github.com/multiversx/go-libp2p/core/crypto"
+	pb "github.com/multiversx/go-libp2p/core/crypto/pb"
+	"github.com/multiversx/go-libp2p/core/peer"
 
 	logging "github.com/ipfs/go-log/v2"
-	tnet "github.com/libp2p/go-libp2p-testing/net"
 	ma "github.com/multiformats/go-multiaddr"
+	tnet "github.com/multiversx/go-libp2p-testing/net"
 )
 
 var log = logging.Logger("boguskey")
