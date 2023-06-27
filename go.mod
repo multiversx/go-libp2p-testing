@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/ipfs/go-log/v2 v2.5.1
 	github.com/multiformats/go-multiaddr v0.9.0
-	github.com/multiversx/go-libp2p v0.27.6-0.20230627100420-3bfeb5418130
+	github.com/multiversx/go-libp2p v0.27.6-0.20230627151140-b20ac6510bf4
 )
 
 require (

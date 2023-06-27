@@ -43,8 +43,8 @@ github.com/multiformats/go-multihash v0.2.1 h1:aem8ZT0VA2nCHHk7bPJ1BjUbHNciqZC/d
 github.com/multiformats/go-multihash v0.2.1/go.mod h1:WxoMcYG85AZVQUyRyo9s4wULvW5qrI9vb2Lt6evduFc=
 github.com/multiformats/go-varint v0.0.7 h1:sWSGR+f/eu5ABZA2ZpYKBILXTTs9JWpdEM/nEGOHFS8=
 github.com/multiformats/go-varint v0.0.7/go.mod h1:r8PUYw/fD/SjBCiKOoDlGF6QawOELpZAu9eioSos/OU=
-github.com/multiversx/go-libp2p v0.27.6-0.20230627100420-3bfeb5418130 h1:RiMmtFGxVqdIWd9szoNhM4BTHNHBtger1/rwXFUhjRk=
-github.com/multiversx/go-libp2p v0.27.6-0.20230627100420-3bfeb5418130/go.mod h1:GCJX4VcM4zCIVl0GHTLF0SEWKac0BqyLP/vlDEc1DXE=
+github.com/multiversx/go-libp2p v0.27.6-0.20230627151140-b20ac6510bf4 h1:uhTmrrPKbYNjt38Z7MJSRAVOpIfvmW1WMsshpDdj4pQ=
+github.com/multiversx/go-libp2p v0.27.6-0.20230627151140-b20ac6510bf4/go.mod h1:GCJX4VcM4zCIVl0GHTLF0SEWKac0BqyLP/vlDEc1DXE=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
